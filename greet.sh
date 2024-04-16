@@ -1,6 +1,2 @@
 #!/bin/bash
-echo "Hello, veera!"
-echo "guvitask"
-echo "veerapandiyanx"
-echo "goat"
-echo "divya"
+echo "Hello, veera the build is success"
